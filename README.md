@@ -1,5 +1,6 @@
 # Python_BaiduAPI_music_player
-Based on Pyaudio, wave and Baidu asr(ai speech recognition) make a music player
+Based on Pyaudio, wave and Baidu asr(ai speech recognition) make a music player.  
+
 blog: http://doing.cool/2018/01/06/Python-Music-player.html
 
 参考：  
