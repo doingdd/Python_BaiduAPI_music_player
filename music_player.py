@@ -134,7 +134,7 @@ if __name__ == '__main__':
         # play(r'01.wav')
         speech_word = baidu_speech()
         print speech_word
-        if '老铁老铁' in speech_word and '音乐' in speech_word:
+        if '老铁' in speech_word and '音乐' in speech_word:
             music = os.listdir('F:\KuGou')
             random.shuffle(music)
             for i in music:
